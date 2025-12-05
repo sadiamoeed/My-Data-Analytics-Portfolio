@@ -14,6 +14,16 @@ This project provides a deep dive into **profitability, customer segmentation, p
 1. **Overview Dashboard**
 2. **Customer Segments & Products Dashboard**
 
+## 📸 Dashboard Snapshots
+
+### 1️⃣ Overview Dashboard
+![Overview Dashboard](mainDashboard.png)
+
+### 2️⃣ Customer Segments & Products Dashboard
+![Customer Segments Dashboard](products&CustomerSegment.png)
+
+
+
 ### ✔ Key KPIs Created
 
 * Average Revenue
@@ -102,9 +112,13 @@ This project provides a deep dive into **profitability, customer segmentation, p
 
 ```
 📁 PowerBI-Financial-Analytics
+
+ ├── FinancialSampleData.xlsx 
  ├── Financial_Analytics_Dashboard.pbix
- ├── FinancialSampleData.xlsx   
- └── README.md
+ ├── README.md
+ ├── mainDashboard.png
+ └── products&CustomerSegments.png
+
 ```
 
 ---
