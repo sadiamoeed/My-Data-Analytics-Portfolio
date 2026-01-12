@@ -40,14 +40,14 @@ This dataset is **synthetic**, generated using the **Python Faker library**, and
 - Sales trends over time (monthly & yearly)
 - Discount and promotion behavior analysis
 
-📌 **Key Finding:**  
-Most variables show **uniform distributions**, which is expected due to the synthetic nature of the dataset.
-
 ### City-wise Transaction Distribution
 ![City Distribution](screenshots/cities.png)
 
-### Payment Methods Preferance Distribution
+### Payment Methods Preference Distribution
 ![Payment_Methods](screenshots/payment_method.png)
+
+📌 **Key Finding:**  
+Dallas and Boston have slightly higher transaction counts (~10.06%). Most variables including payment methods show **uniform distributions**, which is expected due to the synthetic nature of the dataset.
 
 ---
 
@@ -56,11 +56,12 @@ Most variables show **uniform distributions**, which is expected due to the synt
 - Identification of peak and low-performing months
 - Seasonal pattern evaluation
 
-📌 **Insight:**  
-While peak sales months vary each year, lower sales are often observed in February (fewer days) and May 2024 (partial-year data).
-
 ### Monthly Sales Trend
 ![Monthly Sales Trend](screenshots/SalesTrend.png)
+
+
+📌 **Insight:**  
+While peak sales months vary each year, lower sales are often observed in February (fewer days) and May 2024 (partial-year data).
 
 ---
 
@@ -70,12 +71,13 @@ Due to the absence of a unique customer identifier, **RFM analysis was performed
 - **Frequency:** Total number of transactions
 - **Monetary:** Total revenue generated
 
-📌 **Key Insight:**  
-- Homemakers emerge as **high-value customers**
-- Middle-Aged and Professional segments may benefit from targeted engagement strategies
 
 ### RFM Segmentation Heatmap
 ![RFM Heatmap](screenshots/RFM_heatmap.png)
+
+📌 **Key Insight:**  
+- Homemakers emerge as **high-value customers**
+- Middle-Aged and Professional segments may benefit from targeted engagement strategies
 
 ---
 
