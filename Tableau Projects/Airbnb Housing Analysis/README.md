@@ -10,6 +10,9 @@ The final deliverable is a **single interactive dashboard** consisting of **five
 ## 🔍 Dashboard Visualizations & Insights
 
 ### 1. Average Price per Bedroom (Bar Chart)
+
+![Average Price per Bedroom](images/pricePerBedroom.png)
+
 This visualization shows how the average price increases with the number of bedrooms.
 - 1-bedroom listings have an average price of **96.2**
 - Prices gradually rise up to **584.8** for 6-bedroom houses  
@@ -19,6 +22,9 @@ This visualization shows how the average price increases with the number of bedr
 ---
 
 ### 2. Distinct Count of Listings by Bedroom Type
+
+![Bedroom Counts](images/distinctCountBedroomListing.png)
+
 This chart highlights the availability and demand of listings by bedroom count.
 - 1-bedroom listings dominate with **1,811 listings**
 - 2-bedroom: **483**
@@ -33,14 +39,21 @@ This chart highlights the availability and demand of listings by bedroom count.
 ### 3. Price per Zipcode (Geographical Map)
 A map-based visualization displaying average prices across different zip codes, helping identify pricing patterns geographically.
 
+![GeographicalDistribution](images/GeographicalDistribution.png)
+
 ---
 
 ### 4. Price per Zipcode (Bar Chart)
 The same pricing data is represented using a bar chart to allow easier comparison between zip codes.
 
+![Revenue Trend 2016](images/priceByZipCode.png)
+
 ---
 
 ### 5. Revenue Trend for 2016 (Line Chart)
+
+![Revenue Trend 2016](images/revenueTrend.png)
+
 This visualization displays weekly revenue trends for the year 2016:
 - Revenue is lower at the start of the year
 - Gradually increases towards the end of the year
